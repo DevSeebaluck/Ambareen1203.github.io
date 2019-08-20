@@ -1,0 +1,82 @@
+/*general styling*/
+ body, html {
+  font-size: 16px;
+  font-weight: bolder;
+  font-family: sans-serif;
+  margin: 10px;
+  color: white;
+  background-color: black;
+}
+
+.principle{
+  position: relative;
+}
+
+/*styling the navbar*/
+ul {
+  list-style-type: none;
+  margin:0px;
+  padding:0px;
+  background-color: blue;
+}
+
+li {
+  float:left;
+}
+
+li a {
+font-size: 24px;
+display: block;
+color: white;
+padding: 10px;
+}
+
+/*positioning the navbar*/
+nav {
+  position: absolute;
+  left: 45%;
+  top:0px;
+}
+
+
+/*Sytling the social media icons*/
+.first-icon {
+  position: absolute;
+  top: 10px;
+  left: 350px;
+  width: 5px;
+  height: 5px;
+}
+
+.second-icon {
+  position: absolute;
+  top: 10px;
+  left: 300px;
+  width: 5px;
+  height: 5px;
+}
+
+
+
+
+
+
+
+
+
+#firstrow {
+  margin:50px;
+}
+
+
+/*styling images*/
+img {
+  margin: 10px;
+  padding: 20px;
+  height: 300px;
+}
+
+.pictures {
+  position: absolute;
+  left:300px;
+}

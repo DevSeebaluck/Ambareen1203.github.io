@@ -1,0 +1,37 @@
+
+a,
+a:focus,
+a:hover {
+  color: #fff;
+}
+
+
+
+
+body {
+  color: #fff;
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+  box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
+}
+
+img {
+  position: relative;
+  width:100%;
+  height: 100%;
+  margin:0px;
+  }
+
+  .nav {
+    position: absolute;
+    top: 550px;
+    left: 40%;
+    font-weight: bold;
+
+  }
+
+
+.masthead-brand {
+  position: absolute;
+  top:600px;
+  left:37%;
+}

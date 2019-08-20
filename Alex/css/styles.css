@@ -1,0 +1,63 @@
+body, html {
+  font-size: 16px;
+  font-weight: bolder;
+  font-family: sans-serif;
+  margin: 0px;
+  color: white;
+}
+
+h1 {
+  animation-delay: 1s;
+}
+
+li {
+animation-delay: 2s;
+
+}
+
+
+/*styling the title*/
+.tle{
+  position:absolute;
+  top: 200px;
+  right:250px;
+  font-size: 32px;
+  font-weight: bolder;
+
+}
+
+.tle:hover {
+  color: blue;
+}
+/*styling background image*/
+img {
+  position: relative;
+  width: 100%;
+  height: 100%;
+
+}
+/*styling the navbar*/
+ul {
+  list-style-type: none;
+  margin:0px;
+  padding:0px;
+  background-color: blue;
+}
+
+li {
+  float:left;
+}
+
+li a {
+font-size: 24px;
+display: block;
+color: white;
+padding: 10px;
+}
+
+/*positioning the navbar*/
+nav {
+  position: absolute;
+  left: 100px;
+  top:200px;
+}

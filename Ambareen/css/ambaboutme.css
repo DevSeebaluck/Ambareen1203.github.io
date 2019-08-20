@@ -1,0 +1,64 @@
+body {
+  font-size: 16px;
+  font-family: Helvetica, Arial, sans-serif;
+  margin:30px;
+  background-color: black;
+  color: white;
+
+}
+
+
+
+ul {
+list-style-type: none;
+margin: 0px;
+padding: 0px;
+width: 100%;
+background-color: black;
+}
+
+
+li {
+  float: left;
+
+}
+
+
+li a{
+display: block;
+padding: 10px;
+color: white;
+width: 100%;
+font-size:16px;
+}
+
+
+nav {
+  position:absolute;
+  top: 20px;
+  right:35%;
+}
+
+.main {
+  position: relative;
+}
+
+.hed {
+  position: absolute;
+  top: 200px;
+  left: 43%;
+}
+
+.row {
+  position: absolute;
+  top: 600px;
+
+}
+
+
+
+img {
+  width: 150px;
+  height:150px;
+  border-radius: auto;
+}
